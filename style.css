@@ -1,0 +1,27 @@
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url(../img/header.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-primary {
+    background-color: #4DB6AC!important;
+}
+
+hr {
+    border-color: #1DE9B6!important;
+}
+.btn-primary {
+    background-color: #1DE9B6!important;
+    border-color: #1DE9B6!important;
+}
+.btn-primary:hover {
+    background-color: #64FFDA!important;
+    border-color: #64FFDA!important;
+}
