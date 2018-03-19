@@ -8,7 +8,7 @@ header.masthead {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
+    background-image:  url(img/milky-way-2695569_1920.jpg)!important};
 
 .bg-primary {
     background-color: #4DB6AC!important;
