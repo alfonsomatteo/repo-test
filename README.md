@@ -1,6 +1,6 @@
 # [Conversational-first](https://startbootstrap.com/template-overviews/creative/)
 
-Conversational-first(http://startbootstrap.com/template-overviews/creative/) is a one page website created for academic purpose, based on bootstrap and creative [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Conversational-first (based on creative http://startbootstrap.com/template-overviews/creative/) is a one page website created for academic purpose, based on bootstrap and creative [Bootstrap](http://getbootstrap.com/) created by Alfonso Matteo.
 
 ## Preview
 
@@ -17,7 +17,6 @@ Conversational-first(http://startbootstrap.com/template-overviews/creative/) is 
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative?type=dev)
 
 
-## Usage
 
 ### Basic Usage
 
@@ -36,13 +35,7 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp minify-js` minifies the themes JS file
 - `gulp copy` copies dependencies from node_modules to the vendor directory
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
 
 ## About
 
