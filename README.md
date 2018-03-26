@@ -1,6 +1,6 @@
 # [Conversational-first](https://startbootstrap.com/template-overviews/creative/)
 
-Conversational-first[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page website created for academic purpose, based on bootstrap and creative [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Conversational-first(http://startbootstrap.com/template-overviews/creative/) is a one page website created for academic purpose, based on bootstrap and creative [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
